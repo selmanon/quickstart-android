@@ -58,6 +58,12 @@ Support
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/firebase-cloud-messaging)
 - [Firebase Support](https://firebase.google.com/support/)
 
+Note
+-------
+
+The package name must be changed 
+
+
 License
 -------
 
